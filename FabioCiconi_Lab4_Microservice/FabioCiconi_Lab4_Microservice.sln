@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FabioCiconi_Lab4_Microservice", "FabioCiconi_Lab4_Microservice\FabioCiconi_Lab4_Microservice.njsproj", "{2258CDEA-3094-4973-BAF1-DD2C458EC47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2258CDEA-3094-4973-BAF1-DD2C458EC47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2258CDEA-3094-4973-BAF1-DD2C458EC47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2258CDEA-3094-4973-BAF1-DD2C458EC47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2258CDEA-3094-4973-BAF1-DD2C458EC47D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2249B5-72C0-4A6C-B18F-AC715BEBE965}
+	EndGlobalSection
+EndGlobal
